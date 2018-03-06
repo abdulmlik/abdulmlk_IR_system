@@ -28,7 +28,7 @@
         </Grid.RowDefinitions>
         <Label  Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" 
                 FontSize="42" HorizontalAlignment="Center" 
-                VerticalAlignment="Bottom" >Abdulmalik IR System</Label>
+                VerticalAlignment="Bottom" >Abdulmlik IR System</Label>
         <TextBox x:Name="text_search" Grid.Column="1" Grid.Row="2"  Height="90" Grid.ColumnSpan="4" Padding="5,0,5,0" Margin="10" FontSize="36"/>
         <Button x:Name="butSerch" Grid.Column="2" Grid.Row="3" MaxHeight="40" MinWidth="70" Margin="0,0,5,0" IsEnabled="false" Click="butSerch_Click" >
             <StackPanel Orientation="Horizontal">
