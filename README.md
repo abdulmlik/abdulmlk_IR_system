@@ -2,7 +2,7 @@
 Sample  Information Retrieval System using WPF application in C#
 
 the program use hash table to save stop words and using chaining to resolve collisions. <br />
-use hash table to Create index file. <br />
+Create index file by hash table. <br />
 
 *****  meaning end page
 
