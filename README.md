@@ -1,7 +1,8 @@
 # abdulmlk_IR_system
 Sample  Information Retrieval System using WPF application in C#
 
-ind
+the program use hash table to save stop words and using chaining to resolve collisions. <br />
+use hash table to Create index file. <br />
 
 *****  meaning end page
 
@@ -35,7 +36,12 @@ How to compile
 =============
 
 
-This project is a homework, <br />
-I do not allow using it as homework for any student <br />
-Otherwise allow it to be used, <br />
-So do not commit academic dishonesty.
+This project is a homework  <br />
+For reference use only. <br />
+
+# License
+
+This project is licensed under [BSD-2-Clause][b].
+
+
+[b]: https://github.com/abdulmlik/simple-lexical-scanner/blob/master/LICENSE
